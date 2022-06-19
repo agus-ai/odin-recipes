@@ -1,3 +1,4 @@
 # odin-recipes
-In this project I will made a website about recipes with basic HTML (for now).
-I hope I will be able to accomplish it without any problems, and also become motivated to keep going.
+First project with the Odin Curriculum.
+Some interesting -not really- recipes you can do with the oven.
+I put all I learned till the moment to make it, and I think it came out all right.
